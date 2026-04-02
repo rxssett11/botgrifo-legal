@@ -14,4 +14,5 @@ by the developer for managing their own social media accounts.
 The developer is solely responsible for all content published through this tool.
 
 ## Contact
-For any questions contact: tu@email.com
+For any questions contact: calpullidigital@gmail.com
+
